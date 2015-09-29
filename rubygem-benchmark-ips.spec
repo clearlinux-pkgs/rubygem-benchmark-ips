@@ -4,7 +4,7 @@
 #
 Name     : rubygem-benchmark-ips
 Version  : 2.3.0
-Release  : 8
+Release  : 9
 URL      : https://rubygems.org/downloads/benchmark-ips-2.3.0.gem
 Source0  : https://rubygems.org/downloads/benchmark-ips-2.3.0.gem
 Summary  : No detailed summary available
