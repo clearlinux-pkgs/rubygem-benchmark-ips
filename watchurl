@@ -1,4 +1,4 @@
 # File auto-generated with 'Watchfile generator'
-# 2016-05-06 18:22:16.302900
-# {'development', '~>1.0', '>=0'}
+# 2016-07-14 22:13:53.933888
+# {'>=0', '~>1.0', 'development'}
 watchurl=https://rubygems.org/gems/benchmark-ips/versions/([0-1]\.[0-9]{1,2}(?:\.[0-9a-zA-Z]+)*)
